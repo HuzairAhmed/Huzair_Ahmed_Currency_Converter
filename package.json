@@ -1,6 +1,6 @@
 {
   "name": "huzair_ali_currency_converter",
-  "version": "1.0.10",
+  "version": "1.0.0",
   "main": "main.js",
   "type": "module",
   "bin": "main.js",
